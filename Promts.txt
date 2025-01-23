@@ -9,3 +9,17 @@
 8. "Describe the process for assisting a customer with a package lost during international transit."
 9. "What packaging materials are recommended for fragile items, and are there any special options?"
 10. "What are the latest price changes for international letters and packages as of January 2025?"
+
+### Test Prompts in German:
+1. "Wie viel kostet der Versand eines 2-kg-Pakets innerhalb Deutschlands mit GoGreen?"
+2. "Welche Länder gehören zur Zone 4 beim internationalen Versand?"
+3. "Was sind die Maße und Preise für ein Päckchen S und M?"
+4. "Wie funktioniert die Nachnahme beim nationalen Versand, und was kostet sie?"
+5. "Welche Vorteile bietet die Online-Frankierung im Vergleich zur Filial-Frankierung?"
+
+### Productive Prompts for Customer Email Creation:
+1. "Compose a customer email explaining the cost and procedure for sending a 5 kg package to the USA using premium service."
+2. "Write an email to a customer detailing the benefits of GoGreen for their international shipping needs."
+3. "Draft a response to a customer inquiry about adding insurance to a package worth €2,000."
+4. "Create an email explaining how a customer can track their package and what details they need to provide."
+5. "Generate a detailed email about the size limits and pricing for sending packages to Zone 3 countries."
