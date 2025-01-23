@@ -1,0 +1,11 @@
+### Test Prompts for Demonstration:
+1. "What is the cost of sending a 5 kg package within Germany using standard service?"
+2. "How can I add insurance to an international package?"
+3. "Explain the GoGreen Plus program and how it reduces CO₂ emissions."
+4. "List all size limits for parcels that qualify for Zone 5 international shipping."
+5. "What are the bulk shipping options for frequent senders, and how do they differ from regular options?"
+6. "How does online franking differ from in-branch pricing, and what are the benefits?"
+7. "What additional services are available for national shipping?"
+8. "Describe the process for assisting a customer with a package lost during international transit."
+9. "What packaging materials are recommended for fragile items, and are there any special options?"
+10. "What are the latest price changes for international letters and packages as of January 2025?"
