@@ -23,3 +23,14 @@
 3. "Draft a response to a customer inquiry about adding insurance to a package worth €2,000."
 4. "Create an email explaining how a customer can track their package and what details they need to provide."
 5. "Generate a detailed email about the size limits and pricing for sending packages to Zone 3 countries."
+
+DEMO: 
+I need to inform customers about the discontinuation of some services like "Nachnahme Brief National." Could you draft an email for me?
+
+Can you summarize the sizes, weights, and prices for national and international letters and postcards we offer to customers?
+
+
+COMPLEX: 
+Can you summarize the rules for size, weight, and insurance for both letters and packages, including the differences between national and international shipping?
+
+NEXT: I need that in a table
