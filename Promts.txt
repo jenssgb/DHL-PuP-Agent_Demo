@@ -34,3 +34,15 @@ COMPLEX:
 Can you summarize the rules for size, weight, and insurance for both letters and packages, including the differences between national and international shipping?
 
 NEXT: I need that in a table
+OR: Can you draft an E-Mail to my customer Herr Müller and update him on the Prices in German. 
++
+Add Prices
+
+
+
+DEMO M365 vs. Agent:
+How can I add insurance to an international package?
+
+# Same promt for booth! 
+
+
